@@ -7,7 +7,7 @@
 </div>
 <div align="center">
  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
- <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=Java&logoColor=white" />
+ <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=openjdk&logoColor=white" />
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 	<br>
  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
@@ -35,8 +35,8 @@
  
 </div>
 <div align=center>
-	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbbang105&layout=compact">
-	<br>
+</div>
+<div align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=bbbang105&show_icons=true">
 </div>

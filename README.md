@@ -7,7 +7,7 @@
 </div>
 <div align="center">
  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
- <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+ <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=Java&logoColor=white" />
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 	<br>
  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
@@ -25,6 +25,12 @@
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
  <img src="https://img.shields.io/badge/slack-4A154B?style=plastic&logo=slack&logoColor=white"/>
  <img src="https://img.shields.io/badge/notion-000000?style=plastic&logo=notion&logoColor=white"/>
+
+</div>
+<br>
+<p>🏆 Baekjoon solved rank 🏆</p>
+	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsh111366)](https://solved.ac/hsh111366)
  
 </div>
 <div align=center>
@@ -32,9 +38,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbbang105&layout=compact">
 	<br>
 <img src="https://github-readme-stats.vercel.app/api?username=bbbang105&show_icons=true">
- 
-<br>
-<p>🏆 Baekjoon solved rank 🏆</p>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsh111366)](https://solved.ac/hsh111366)
 </div>

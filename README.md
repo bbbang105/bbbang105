@@ -16,7 +16,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<p>🛠 <b>Tools</b> 🛠</p>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
@@ -29,7 +29,7 @@
 </div>
 <br>
 <div align="center">
-<p>🏆 Baekjoon Solved Rank 🏆</p>
+<p>🏆 <b>Baekjoon Solved Rank</b> 🏆</p>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsh111366)](https://solved.ac/hsh111366)
  

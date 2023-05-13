@@ -3,7 +3,7 @@
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
-	<h6>✨ <b>Platforms & Languages</b> ✨</h6>
+	<p>✨ <b>Platforms & Languages</b> ✨</p>
 </div>
 <div align="center">
  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>

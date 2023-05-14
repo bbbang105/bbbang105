@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=bbbang105%20Github!&fontSize=90" />	
 </div>
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
+	<h4>📚 Tech Stack 📚</h4>
 	<p>✨ <b>Platforms & Languages</b> ✨</p>
 </div>
 <div align="center">

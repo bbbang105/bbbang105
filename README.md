@@ -34,9 +34,3 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsh111366)](https://solved.ac/hsh111366)
  
 </div>
-<div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbbang105&layout=compact">
-</div>
-<div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=bbbang105&show_icons=true">
-</div>

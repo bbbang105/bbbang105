@@ -19,10 +19,9 @@
 	<p>🛠 <b>Tools</b> 🛠</p>
 </div>
 <div align=center>
-	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
  <br>
- <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
  <img src="https://img.shields.io/badge/slack-4A154B?style=plastic&logo=slack&logoColor=white"/>
  <img src="https://img.shields.io/badge/notion-000000?style=plastic&logo=notion&logoColor=white"/>
 

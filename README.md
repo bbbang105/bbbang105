@@ -43,10 +43,6 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white" />
 </div>
 
-#### CI/CD, Deploy
-<di
-</div>
-
 #### Tools
 <div>
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">

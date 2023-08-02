@@ -58,11 +58,19 @@
 </div>
 
 ---
+<div align = center>
 
 ### Baekjoon Solved Rank 🏆
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsh111366)](https://solved.ac/hsh111366)
+<img src="http://mazandi.herokuapp.com/api?handle=hsh111366&theme=cold"/>
+
+</div>
+
+<div align = center>
 
 ### Latest Velog Post 📋
 
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hsh111366&color=dark)](https://velog.io/@hsh111366)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hsh111366&color=dark)](https://velog.io/@hsh111366)
+
+</div>

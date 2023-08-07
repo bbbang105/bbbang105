@@ -60,7 +60,7 @@
 ---
 <div align = center>
 
-### Baekjoon Solved Rank 🏆 & My Effort 💦
+### Baekjoon Solved Rank 🏆 & My Efforts 💦
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsh111366)](https://solved.ac/hsh111366)
 <img src="http://mazandi.herokuapp.com/api?handle=hsh111366&theme=cold"/>

@@ -56,5 +56,4 @@
 ### Latest Velog Post 📋
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hsh111366&color=)](https://github.com/hsh111366/velog-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbbang105&hide=jupyter-notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>

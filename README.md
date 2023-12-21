@@ -5,7 +5,6 @@
 <li> 경영정보학 & 융합소프트웨어를 전공중입니다 🎓 </li>
 <li> 글을 쓰고 소통하는 것을 좋아합니다 ✍🏻 </li>
 <li> 커뮤니케이션 능력이 뛰어난 백엔드 개발자가 되고자 노력중입니다 🔊 </li>
-<li> 1일 1커밋 운동을 2023년 4월부터 진행중입니다 🌱 </li>
 </ul>
 
 <a href="https://velog.io/@hsh111366"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hsh111366"/></a>
@@ -29,9 +28,12 @@
 <img src="https://img.shields.io/badge/amazon rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/jenkins-24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+<img src="https://img.shields.io/badge/google cloud platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
 </div>
 
 #### Tools

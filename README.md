@@ -1,4 +1,4 @@
-## Welcome to bbbang's Github! 👋🏻
+## Welcome to SanghoHan's Github! 👋🏻
 
 ### About me 
 <ul style = "list-style-type:square;">

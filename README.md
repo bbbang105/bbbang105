@@ -59,5 +59,5 @@
 
 ### Latest Velog Post 📋
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hsh111366&color=)](https://github.com/hsh111366/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hsh111366)](https://github.com/eungyeole/velog-readme-stats)
 </div>

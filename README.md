@@ -4,6 +4,7 @@
 <ul style = "list-style-type:square;">
 <li> 경영정보학 & 융합소프트웨어를 전공중입니다 🎓 </li>
 <li> 글을 쓰고 소통하는 것을 좋아합니다 ✍🏻 </li>
+<li> 부족한 부분에 대해 끊임없이 고민합니다 💡 </li>
 <li> 커뮤니케이션 능력이 뛰어난 백엔드 개발자가 되고자 노력중입니다 🔊 </li>
 </ul>
 
@@ -50,16 +51,11 @@
 </div>
 
 ---
-<div align = center>
+<div>
 	
-### Baekjoon Solved Rank 🏆 & My Effort 💦
+### Baekjoon Solved Rank 🏆
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsh111366)](https://solved.ac/hsh111366)
-<img src="http://mazandi.herokuapp.com/api?handle=hsh111366&theme=cold"/>
-
-</div>
-
-<div align = center>
 
 ### Latest Velog Post 📋
 

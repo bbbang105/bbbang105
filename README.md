@@ -56,7 +56,7 @@
 ### Baekjoon Solved Rank 🏆
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsh111366)](https://solved.ac/hsh111366)
 
-### Latest Velog Post 
+### Latest Velog Post 📝
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hsh111366)](https://velog.io/@hsh111366/posts)
 

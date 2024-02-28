@@ -5,7 +5,7 @@
 <li> 경영정보학 & 융합소프트웨어를 전공중입니다 🎓 </li>
 <li> 글을 쓰고 소통하는 것을 좋아합니다 ✍🏻 </li>
 <li> 부족한 부분에 대해 끊임없이 고민합니다 💡 </li>
-<li> 커뮤니케이션 능력이 뛰어난 백엔드 개발자가 되고자 노력중입니다 🔊 </li>
+<li> 커뮤니케이션 능력이 뛰어난 백엔드 개발자가 되고자 노력중입니다 🗣️ </li>
 </ul>
 
 <a href="https://velog.io/@hsh111366"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hsh111366"/></a>
@@ -18,6 +18,7 @@
 - Dongguk Univ. 창업동아리 '검정신발' 2nd Backend `2024.02 ~ ing`
 - Dongguk Univ. Data Analytics TA `2024.03 ~ ing`
 - Dongguk Univ. Python Programming TA `2024.03 ~ ing`
+- Dongguk Univ. 경영정보학과 개발 소모임 'proMIS' Python Study Mentor `2023.03 ~ 2023.06`
 - SK Devocean Young 3rd Backend `2024.02 ~ ing`
 - KUSITMS 29th Backend `2024.02 ~ ing` 
 - Ministry of Science and ICT 정책 펜기자 12th `2024.02 ~ ing`

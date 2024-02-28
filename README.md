@@ -21,7 +21,8 @@
 - Dongguk Univ. 경영정보학과 개발 소모임 'proMIS' Python Study Mentor `2023.03 ~ 2023.06`
 - SK Devocean Young 3rd Backend `2024.02 ~ ing`
 - KUSITMS 29th Backend `2024.02 ~ ing` 
-- Ministry of Science and ICT 정책 펜기자 12th `2024.02 ~ ing`
+- Ministry of Science and ICT 12th 정책 펜기자 `2024.02 ~ ing`
+- ADsP 34th, SQLD 50th, PCCP Java Lv.2
 ---
 
 ###  Tech Stacks 📚

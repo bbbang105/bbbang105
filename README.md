@@ -13,16 +13,16 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/bbbang105&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
-### Experiences 🔥
+### Experiences 🏃🏻
 - Dongguk Univ. 해커톤 '동국톤' 1st Backend `2023.12`
 - Dongguk Univ. 창업동아리 '검정신발' 2nd Backend `2024.02 ~ ing`
 - Dongguk Univ. 창업동아리 '검정신발' Algorithm Study Mentor `2024.02 ~ ing`
 - Dongguk Univ. 경영정보학과 개발 소모임 'proMIS' Python Study Mentor `2023.03 ~ 2023.06`
 - Dongguk Univ. Data Analytics TA `2024.03 ~ ing`
 - Dongguk Univ. Python Programming TA `2024.03 ~ ing`
-- SK Devocean Young 3rd Backend `2024.02 ~ ing`
-- KUSITMS 29th Backend `2024.02 ~ ing` 
-- Ministry of Science and ICT 12th 정책 펜기자 `2024.02 ~ ing`
+- SKT 테크 인플루언서 'Devocean Young' 3rd Backend `2024.02 ~ ing`
+- 한국대학생IT경영학회 'KUSITMS' 29th Backend `2024.02 ~ ing` 
+- 과학기술정보통신부 12th 정책 서포터즈 펜기자 `2024.02 ~ ing`
 - ADsP 34th, SQLD 50th, PCCP Java Lv.2
 ---
 

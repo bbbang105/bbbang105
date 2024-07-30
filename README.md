@@ -22,7 +22,6 @@
 - SKT 테크 인플루언서 'Devocean Young' 3rd Backend `2024.02 ~ ing`
 - 한국대학생IT경영학회 'KUSITMS' 29th Backend `2024.02 ~ 2024.06`
 - 한국대학생IT경영학회 'KUSITMS' 30th Backend & 부학회장 `2024.06 ~ ing` 
-- 과학기술정보통신부 정책 서포터즈 12th 펜기자 `2024.02 ~ ing`
 - ADsP 34th, SQLD 50th, PCCP Java Lv.2, TOPCIT Lv.3
 ---
 

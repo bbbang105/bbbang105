@@ -5,7 +5,7 @@
 <li> 경영정보학 & 융합소프트웨어를 전공중입니다 🎓 </li>
 <li> 글을 쓰고 소통하는 것을 좋아합니다 ✍🏻 </li>
 <li> 부족한 부분에 대해 끊임없이 고민합니다 💡 </li>
-<li> 프로젝트 전반에 관심을 갖는 백엔드 개발자가 되고자 노력중입니다 🗣️ </li>
+<li> 비즈니스를 이해하는 백엔드 개발자가 되고자 노력중입니다 📝 </li>
 </ul>
 
 <a href="https://velog.io/@hsh111366"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hsh111366"/></a>
@@ -33,6 +33,8 @@
 <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 </div>
 
 ---

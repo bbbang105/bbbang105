@@ -27,7 +27,7 @@
 #### 2024.07 이달의 NClouder 선정 🎖️
 <img src="https://github.com/user-attachments/assets/346cbc37-8c0e-49e0-81b4-8a36cd69d074" alt="이달의 Nclouder 배지 7월" width="330" height="300">
 
-🔗 [NCP 블로그 본문](https://blog.naver.com/n_cloudplatform/223539614450) 🔗 [선정글 본문](https://blog.naver.com/n_cloudplatform/223539614450](https://velog.io/@hsh111366/NCP-Spring-Boot-%EB%84%A4%EC%9D%B4%EB%B2%84-%ED%81%B4%EB%A1%9C%EB%B0%94-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-API%EB%A1%9C-%EC%B1%97%EB%B4%87-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)](https://velog.io/@hsh111366/NCP-Spring-Boot-네이버-클로바-스튜디오-API로-챗봇-기능-구현하기))
+🔗 [NCP 블로그 본문](https://blog.naver.com/n_cloudplatform/223539614450) 🔗 [선정글 본문](https://velog.io/@hsh111366/NCP-Spring-Boot-네이버-클로바-스튜디오-API로-챗봇-기능-구현하기)
 
 ---
 

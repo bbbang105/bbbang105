@@ -47,9 +47,6 @@
 ### Awards & Licenses 🎖️
 
 - 24년 7월 이달의 NClouder 🔗 [NCP 블로그 본문](https://blog.naver.com/n_cloudplatform/223539614450) | [선정글 본문](https://velog.io/@hsh111366/NCP-Spring-Boot-네이버-클로바-스튜디오-API로-챗봇-기능-구현하기)
-
-<img src="https://github.com/user-attachments/assets/346cbc37-8c0e-49e0-81b4-8a36cd69d074" alt="이달의 Nclouder 배지 7월" width="190" height="170">
-
 - 24년 동국대 여름 ICPC, 캡스톤디자인 원장상 (2위)
 - ADsP 34th
 - SQLD 50th

@@ -4,7 +4,6 @@
 <ul style = "list-style-type:square;">
 <li> 경영정보학 & 융합소프트웨어를 전공중입니다 🎓 </li>
 <li> 글을 쓰고 소통하는 것을 좋아합니다 ✍🏻 </li>
-<li> 부족한 부분에 대해 끊임없이 고민합니다 💡 </li>
 <li> 비즈니스를 이해하는 백엔드 개발자가 되고자 노력중입니다 📝 </li>
 </ul>
 
@@ -12,39 +11,50 @@
 <a href="mailto:hchsa77@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hchsa77@gmail.com"/></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/bbbang105&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false)](https://hits.seeyoufarm.com)
 
----
+
+### Projects 🗂️
+|프로젝트명|기간|역할|스택|링크|
+|:---:|:---:|:---:|:---:|:---:|
+|링크 공유 한번으로, 여러 사람과 쉽게 일정을 맞추세요 - 'OneTime' ⏰|`24.08 ~ ing`|백엔드, CICD(무중단 배포), API 구현|<img src="https://img.shields.io/badge/Java 17-007396?style=plastic&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white"/>|[서비스](https://www.onetime-with-members.com/) , [깃허브](https://github.com/onetime-with-members)|
+|한 장의 티켓에 현장을 담다 - 'TickIt' 🎟️|`24.07 ~ ing`|백엔드, CICD(무중단 배포), API 구현|<img src="https://img.shields.io/badge/Java 17-007396?style=plastic&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white"/>|[깃허브](https://github.com/skatch-devocean-young)|
+|KUSITMS 30th X SKT DEVOCEAN 기업 프로젝트 🚀|`24.08 ~ 24.09`|백엔드 리드, 나의 서랍 & 나의 배지 API 구현|<img src="https://img.shields.io/badge/Java 8-007396?style=plastic&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Maven-C71A36?style=plastic&logo=apachemaven&logoColor=white"> <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=plastic&logo=apachetomcat&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white">|[깃허브](https://github.com/kusitms30th-devocean-b)|
+|내 손안의 전시회 - 'Esthete' 🖼️|`24.02 ~ 24.09`|백엔드, DB 설계 & 전시 추천 알고리즘, 전시 서비스 API 구현|<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Java 17-007396?style=plastic&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-231F20?style=plastic&logo=apachekafka&logoColor=white"/> |[깃허브](https://github.com/blackshoe-esthete)|
+|가상화폐 백테스팅 & 자동매매 플랫폼 - 'BAMOWL' 🦉|`24.03 ~ 24.06`|팀장, 백엔드, 업비트 & 딥러닝 API 연동, 백테스팅 & 자동매매 구현|<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Java 17-007396?style=plastic&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/> |[깃허브](https://github.com/CSID-DGU/2024-1-SCS4031-01-owl-4), [회고록](https://velog.io/@hsh111366/24-1-캡스톤-디자인-회고록)|
+|나만의 조각을 찾아 브랜딩하는 공간 - 'SELPIECE' 🔮|`24.03 ~ 24.06`|테크 리드, 백엔드, 네이버 클로바 API 연동, 테스트 알고리즘 구현|<img src="https://img.shields.io/badge/Java 17-007396?style=plastic&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white"/>|[깃허브](https://github.com/KUSITMS-29th-TEAM-D), [회고록](https://velog.io/@hsh111366/KUSITMS-29기-2개월-간의-밋업-프로젝트-후기)|
+|동국대학교 공지사항 통합 달력 - '학사통달' 🎓|`23.09 ~ 23.12`|백엔드, DB 설계 및 API 구현, 공지사항 크롤링 기능 구현|<img src="https://img.shields.io/badge/Java 11-007396?style=plastic&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Jsoup 1.15.3-003545?style=Plastic&logo=&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/>|[깃허브](https://github.com/CSID-DGU/2023-2-OSSProj-ZIIO-4), [회고록](https://velog.io/@hsh111366/23-2-오픈소스-프로젝트-회고록)|
+
+
+
 ### Experiences 🏃🏻
-- Dongguk Univ. 경영정보학과 개발 소모임 'proMIS' Python Study Mentor `2023.03 ~ 2023.06`
-- Dongguk Univ. Data Analytics & Python Programming TA `2024.03 ~ 2024.06`
-- Dongguk Univ. 해커톤 '동국톤' 1st Backend `2023.12`
-- Dongguk Univ. 창업동아리 '검정신발' 2nd Backend `2024.02 ~ ing`
-- Dongguk Univ. 창업동아리 '검정신발' Algorithm Study Mentor `2024.02 ~ ing`
-- SKT 테크 인플루언서 'Devocean Young' 3rd Backend `2024.02 ~ ing`
-- 한국대학생IT경영학회 'KUSITMS' 29th Backend `2024.02 ~ 2024.06`
-- 한국대학생IT경영학회 'KUSITMS' 30th Backend & 부학회장 `2024.06 ~ ing` 
-- ADsP 34th, SQLD 50th, PCCP Java Lv.2, TOPCIT Lv.3
+- 동국대학교 데이터 애널리틱스 & 파이썬 프로그래밍 TA `2024.03 ~ 2024.06`
+- 동국대학교 해커톤 '동국톤' 1기 백엔드 `2023.12`
+- 동국대학교 창업동아리 '검정신발' 2기 백엔드 `2024.02 ~ ing`
+- SKT 테크 인플루언서 '데보션영' 3기 백엔드 `2024.02 ~ ing`
+- 한국대학생IT경영학회 'KUSITMS' 29기 백엔드 `2024.02 ~ 2024.06`
+- 한국대학생IT경영학회 'KUSITMS' 30기 백엔드 & 부학회장 `2024.06 ~ ing`
 
-#### 2024.07 이달의 NClouder 선정 🎖️
-<img src="https://github.com/user-attachments/assets/346cbc37-8c0e-49e0-81b4-8a36cd69d074" alt="이달의 Nclouder 배지 7월" width="330" height="300">
+### Studies 📚
 
-🔗 [NCP 블로그 본문](https://blog.naver.com/n_cloudplatform/223539614450) 🔗 [선정글 본문](https://velog.io/@hsh111366/NCP-Spring-Boot-네이버-클로바-스튜디오-API로-챗봇-기능-구현하기)
+|스터디명|기간|링크|
+|:---:|:---:|:---:|
+|KUSITMS X F-Lab 도서 스터디 멘티|`24.09 ~ ing`|[깃허브](https://github.com/muhandojeon)|
+|KUSITMS 30th 블로그 스터디 '큐스팅' 멘토|`24.09 ~ ing`|[노션](https://large-purpose-505.notion.site/b28ee10828cd42e98dff08d5e12082e0?pvs=4)|
+|KUSITMS 30th 코드잇 스터디 '큐드잇' 멘토|`24.09 ~ ing`|[노션](https://large-purpose-505.notion.site/7f9bb1684f4c42bab96d777e135cfbd3?pvs=4)|
+|데보션영 3기 이펙티브 자바 스터디 멘티|`24.05 ~ ing`|[깃허브](https://github.com/effective-java-3th-devocean-young)|
+|창업동아리 검정신발 알고리즘 스터디 1,2기 멘토|`24.03 ~ ing`|[깃허브](https://github.com/blackshoe-algorithm-study)|
+|경영정보학과 개발 소모임 파이썬 스터디 멘토|`23.03 ~ 06`|[노션](https://large-purpose-505.notion.site/proMIS-Python-Study-2fe22ec839c54e7fb771510880216b66?pvs=4)|
 
----
+### Awards & Licenses 🎖️
 
-###  Tech Stacks 📚
-<div>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white"> 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-</div>
+- 24년 7월 이달의 NClouder 🔗 [NCP 블로그 본문](https://blog.naver.com/n_cloudplatform/223539614450) | [선정글 본문](https://velog.io/@hsh111366/NCP-Spring-Boot-네이버-클로바-스튜디오-API로-챗봇-기능-구현하기)
 
----
-<div>
+<img src="https://github.com/user-attachments/assets/346cbc37-8c0e-49e0-81b4-8a36cd69d074" alt="이달의 Nclouder 배지 7월" width="190" height="170">
+
+- 24년 동국대 여름 ICPC, 캡스톤디자인 원장상 (2위)
+- ADsP 34th
+- SQLD 50th
+- PCCP Java Lv.2
+- TOPCIT Lv.3
 	
 ### Baekjoon Solved Rank 🏆
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsh111366)](https://solved.ac/hsh111366)
@@ -54,5 +64,3 @@
 
 ### Github Stats 📊
 ![bbbang's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbbang105&show_icons=true&theme=radical)
-
-</div>

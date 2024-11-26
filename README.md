@@ -11,7 +11,6 @@
 <a href="mailto:hchsa77@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hchsa77@gmail.com"/></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/bbbang105&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
 ### Projects 🗂️
 |프로젝트명|기간|역할|사용 스택|링크|
 |:---:|:---:|:---:|:---:|:---:|
@@ -57,8 +56,8 @@
 ### Baekjoon Solved Rank 🏆
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsh111366)](https://solved.ac/hsh111366)
 
-### Latest Velog Post 📝
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hsh111366)](https://velog.io/@hsh111366/posts)
+### Latest Velog Posts 📝
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/hsh111366?theme=dark&posts=3)
 
 ### Github Stats 📊
 ![bbbang's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbbang105&show_icons=true&theme=radical)

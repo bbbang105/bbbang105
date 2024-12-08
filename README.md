@@ -27,8 +27,8 @@
 - 동국대학교 창업동아리 '검정신발' 2기 백엔드 `2024.02 ~ ing`
 - SKT 테크 인플루언서 '데보션영' 3기 백엔드 `2024.02 ~ ing` | 🔗 [블로그](https://velog.io/@hsh111366/series/SKT-%EB%8D%B0%EB%B3%B4%EC%85%98%EC%98%81)
 - 한국대학생IT경영학회 'KUSITMS' 29기 백엔드 `2024.02 ~ 2024.06` | 🔗 [블로그](https://velog.io/@hsh111366/series/KUSITMS)
-- 한국대학생IT경영학회 'KUSITMS' 30기 백엔드 & 부학회장 `2024.06 ~ ing` | 🔗 [블로그](https://velog.io/@hsh111366/series/%ED%81%90%EC%8B%9C%EC%A6%98-30%EA%B8%B0)
-- 한국대학생IT경영학회 'KUSITMS' 2회 전시 TF 기획총괄팀 `2024.08 ~ ing`
+- 한국대학생IT경영학회 'KUSITMS' 30기 백엔드 & 부학회장 `2024.06 ~ ing` | 🔗 [블로그](https://velog.io/@hsh111366/series/KUSITMS)
+- 한국대학생IT경영학회 'KUSITMS' 제2회 전시 TF 기획총괄팀 `2024.08 ~ ing`
 
 ### Studies 📚
 

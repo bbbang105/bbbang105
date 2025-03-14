@@ -8,7 +8,7 @@
 <li> 결과보다는 과정을 중시합니다. 후회를 남기고 싶지 않아 사소한 일이더라도 맡은 바에 최선을 다하고 있습니다. </li>
 </ul>
 
-### [Portfolio 🎨](https://large-purpose-505.notion.site/1a9af5d93aa8801f9d0fe069b7b26249)
+### [Portfolio 🎨](https://sanghohan.notion.site/1b6af5d93aa88020a279c7eef8986fb3?pvs=4)
 
 <a href="https://velog.io/@hsh111366"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hsh111366"/></a>
 <a href="mailto:hchsa77@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hchsa77@gmail.com"/></a>

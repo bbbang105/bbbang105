@@ -14,7 +14,8 @@
 <a href="mailto:hchsa77@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hchsa77@gmail.com"/></a>
 
 ### My Velog 📝
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/hsh111366?theme=dark&posts=3)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hsh111366)](https://github.com/eungyeole/velog-readme-stats)
 
 ### Baekjoon Solved Rank 🏆
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsh111366)](https://solved.ac/hsh111366)

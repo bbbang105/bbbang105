@@ -10,12 +10,9 @@
 
 ### [Portfolio 🎨](https://sanghohan.notion.site/1b6af5d93aa88020a279c7eef8986fb3?pvs=4)
 
-<a href="https://velog.io/@hsh111366"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hsh111366"/></a>
-<a href="mailto:hchsa77@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hchsa77@gmail.com"/></a>
-
 ### My Velog 📝
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hsh111366)](https://github.com/eungyeole/velog-readme-stats)
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/hsh111366?theme=dark&posts=3)
 
 ### Baekjoon Solved Rank 🏆
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsh111366)](https://solved.ac/hsh111366)

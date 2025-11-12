@@ -14,7 +14,7 @@
 ### Certifications🏅
 - AWS SAA
   
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/ab5766be-d97b-433c-bbdb-2eda859b26bd" />
+<img width="230" height="230" alt="image" src="https://github.com/user-attachments/assets/ab5766be-d97b-433c-bbdb-2eda859b26bd" />
 
 - SQLD
 - ADsP

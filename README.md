@@ -8,11 +8,16 @@
 <li> 결과보다는 과정을 중시합니다. 후회를 남기고 싶지 않아 사소한 일이더라도 맡은 바에 최선을 다하고 있습니다. </li>
 </ul>
 
-### [Portfolio 🎨](https://sanghohan.notion.site/1b6af5d93aa88020a279c7eef8986fb3?pvs=4)
-
 ### My Velog 📝
-
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/hsh111366?theme=dark&posts=3)
+
+### Certifications🏅
+- AWS SAA
+  
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/ab5766be-d97b-433c-bbdb-2eda859b26bd" />
+
+- SQLD
+- ADsP
 
 ### Baekjoon Solved Rank 🏆
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsh111366)](https://solved.ac/hsh111366)

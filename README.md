@@ -12,10 +12,11 @@
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/hsh111366?theme=dark&posts=3)
 
 ### Certifications🏅
-- AWS SAA
   
 <img width="230" height="230" alt="image" src="https://github.com/user-attachments/assets/ab5766be-d97b-433c-bbdb-2eda859b26bd" />
 
+- AWS SAA
+- Network Advisor 2
 - SQLD
 - ADsP
 

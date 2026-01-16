@@ -2,8 +2,8 @@
 
 ## 💡 About Me
 - 🎯 I believe the essence of development is **understanding user pain points and proactively solving them**
-- 🧑🏻‍💻 Currently building and operating a service with **20,000+ users** and **2,000+ MAU** 👉🏻 [⏰ OneTime](https://www.onetime-with-members.com/ko/landing)
-- 📝 I believe in the power of **documentation** and the **knowledge sharing** it fosters — 250+ blog posts over 2 years
+- 🧑🏻‍💻 Currently building and operating a service with **20,000+ users** and **2,000+ MAU** — [⏰ OneTime](https://www.onetime-with-members.com/ko/landing)
+- ✍🏻 I believe in the power of **documentation** and the **knowledge sharing** it fosters — [250+ blog posts over 2 years](https://velog.io/@hsh111366/posts)
 
 ## My Velog 📝
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/hsh111366?theme=dark&posts=3)

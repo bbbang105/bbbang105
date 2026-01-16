@@ -2,7 +2,7 @@
 
 ## 💡 About Me
 - 🎯 I believe the essence of development is **understanding user pain points and proactively solving them**
-- 🚀 Currently building and operating a service with **20,000+ users** and **2,000+ MAU**
+- 🧑🏻‍💻 Currently building and operating a service with **20,000+ users** and **2,000+ MAU** 👉🏻 [⏰ OneTime](https://www.onetime-with-members.com/ko/landing)
 - 📝 I believe in the power of **documentation** and the **knowledge sharing** it fosters — 250+ blog posts over 2 years
 
 ## My Velog 📝
@@ -11,7 +11,7 @@
 ## Certifications🏅
 <img width="230" height="230" alt="image" src="https://github.com/user-attachments/assets/ab5766be-d97b-433c-bbdb-2eda859b26bd" />
 
-- AWS SAA
+- Linux Master Level 2
 - Network Advisor 2
 - SQLD
 - ADsP
